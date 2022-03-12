@@ -1,5 +1,4 @@
-﻿ID;Title;Date;Publisher;Archivo
-1;"Doble suicidio en ""El Sisga""";Junio 29 1965;El Tiempo;doble-suicidio-el-tiempo.jpg
-2;Una indígena y su hijo murieron en persecución;Mayo 24 del 96;El Tiempo;indigena-hijo-el-tiempo.jpg
-3;Láminas de paisajes latinoamericanos;;;laminas-paisajes.jpg
-4;Exmilitar Mata a la Esposa de su Amigo y se Suicida;;;exmilitar-mata-esposa.jpg
+﻿ID;Title;Date;Format;Medium;Archivo;referente
+1;Los Suicidas del Sisga No 1;1965;120x100cm;Óleo sobre lienzo;suicidas-sisga-1.jpg;1
+2;El Paraíso;1997;160x45 cm;Óleo sobre lienzo;el-paraiso.jpg;2,3
+3;Zócalo de la tragedia;1983;100x71;Tipografía sobre papel;zocalo-tragedia.jpg;4
