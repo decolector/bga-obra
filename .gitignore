@@ -49,3 +49,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#MS Office temporal files
+~$*
